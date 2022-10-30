@@ -9,6 +9,7 @@ description = "println, but the computer talks to you instead"
 homepage = "https://github.com/RobWalt/speakln"
 repository = "https://github.com/RobWalt/speakln"
 documentation = "https://docs.rs/speakln"
+readme = "README.md"
 
 [dependencies]
 once_cell = "1.16"
